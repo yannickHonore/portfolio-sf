@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="Portfolio Yannick HONORE" />
         <meta name="author" content="Yannick HONORE" />
-        <title>portefolio - Yannick HONORE</title>
+        <title>portfolio - Yannick HONORE</title>
         <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/favicon.jpg') }}" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
@@ -14,6 +14,7 @@
         <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="{{ asset('css/styles.css') }}" rel="stylesheet" />
+        {% block stylesheets %}{% endblock %}
     </head>
     <body id="page-top">
         {% include "shared/navbar.html.twig" %}

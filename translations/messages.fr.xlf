@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="ZyFT62v" resname="A propos">
+        <source>A propos</source>
+        <target>A propos</target>
+      </trans-unit>
+      <trans-unit id="qCzc7OC" resname="Expérience">
+        <source>Expérience</source>
+        <target>Expérience</target>
+      </trans-unit>
+      <trans-unit id="SaY9cr4" resname="Formation">
+        <source>Formation</source>
+        <target>Formation</target>
+      </trans-unit>
+      <trans-unit id="QTkjKFo" resname="Compétences">
+        <source>Compétences</source>
+        <target>Compétences</target>
+      </trans-unit>
+      <trans-unit id="v8gdiyv" resname="Intérêts">
+        <source>Intérêts</source>
+        <target>Intérêts</target>
+      </trans-unit>
+      <trans-unit id="cdJe2Zm" resname="Photo de profil">
+        <source>Photo de profil</source>
+        <target>Photo de profil</target>
+      </trans-unit>
+      <trans-unit id="DMKkWOy" resname="Suite à une reconversion, je suis actuellement à la recherche d'un emploi en tant que développeur web et web-mobile de préférence avec le framework Symfony.">
+        <source>Suite à une reconversion, je suis actuellement à la recherche d'un emploi en tant que développeur web et web-mobile de préférence avec le framework Symfony.</source>
+        <target>Suite à une reconversion, je suis actuellement à la recherche d'un emploi en tant que développeur web et web-mobile de préférence avec le framework Symfony.</target>
+      </trans-unit>
+      <trans-unit id="uLuqGUS" resname="Développeur web">
+        <source>Développeur web</source>
+        <target>Développeur web</target>
+      </trans-unit>
+      <trans-unit id="ZVx0Kqn" resname="Développement et mise en production d'une application web Symfony permettant de faire de la gestion de bien matériel et mobilier (inventaire, formulaire de demande de prêt «panier», etc...).">
+        <source>Développement et mise en production d'une application web Symfony permettant de faire de la gestion de bien matériel et mobilier (inventaire, formulaire de demande de prêt «panier», etc...).</source>
+        <target>Développement et mise en production d'une application web Symfony permettant de faire de la gestion de bien matériel et mobilier (inventaire, formulaire de demande de prêt «panier», etc...).</target>
+      </trans-unit>
+      <trans-unit id="ZgGkM4P" resname="Avril">
+        <source>Avril</source>
+        <target>Avril</target>
+      </trans-unit>
+      <trans-unit id="P_.Akva" resname="Aout">
+        <source>Aout</source>
+        <target>Aout</target>
+      </trans-unit>
+      <trans-unit id="Cs7a_3w" resname="Dessinateur étude 1">
+        <source>Dessinateur étude 1</source>
+        <target>Dessinateur étude 1</target>
+      </trans-unit>
+      <trans-unit id="9DSCfeG" resname="Concepteur en B.E. sur CATIA V4 et CATIA V5. Concevoir, modéliser et faire les plans de fabrication d'outillages en aéronautique, pièces automobiles ou ferroviaires.">
+        <source>Concepteur en B.E. sur CATIA V4 et CATIA V5. Concevoir, modéliser et faire les plans de fabrication d'outillages en aéronautique, pièces automobiles ou ferroviaires.</source>
+        <target>Concepteur en B.E. sur CATIA V4 et CATIA V5. Concevoir, modéliser et faire les plans de fabrication d'outillages en aéronautique, pièces automobiles ou ferroviaires.</target>
+      </trans-unit>
+      <trans-unit id="bPsX5S8" resname="Juillet">
+        <source>Juillet</source>
+        <target>Juillet</target>
+      </trans-unit>
+      <trans-unit id="RjsgLgb" resname="Février">
+        <source>Février</source>
+        <target>Février</target>
+      </trans-unit>
+      <trans-unit id="wJulClG" resname="Technitien B.E.">
+        <source>Technitien B.E.</source>
+        <target>Technitien B.E.</target>
+      </trans-unit>
+      <trans-unit id="oqxMWE_" resname="Réaliser des plans de fabrication d'outillages sur CATIA V4 et concevoir les programmes d'usinages à commande numérique.">
+        <source>Réaliser des plans de fabrication d'outillages sur CATIA V4 et concevoir les programmes d'usinages à commande numérique.</source>
+        <target>Réaliser des plans de fabrication d'outillages sur CATIA V4 et concevoir les programmes d'usinages à commande numérique.</target>
+      </trans-unit>
+      <trans-unit id="oKbKCRx" resname="Mars">
+        <source>Mars</source>
+        <target>Mars</target>
+      </trans-unit>
+      <trans-unit id="SghM8SA" resname="Juin">
+        <source>Juin</source>
+        <target>Juin</target>
+      </trans-unit>
+      <trans-unit id="l9uHdgH" resname="Professeur d’atelier">
+        <source>Professeur d’atelier</source>
+        <target>Professeur d’atelier</target>
+      </trans-unit>
+      <trans-unit id="9hni58v" resname="Professeur d'atelier pour des élèves de B.E.P. Modelage et de classes 3° technologique.">
+        <source>Professeur d'atelier pour des élèves de B.E.P. Modelage et de classes 3° technologique.</source>
+        <target>Professeur d'atelier pour des élèves de B.E.P. Modelage et de classes 3° technologique.</target>
+      </trans-unit>
+      <trans-unit id="p62vZ_a" resname="Novembre">
+        <source>Novembre</source>
+        <target>Novembre</target>
+      </trans-unit>
+      <trans-unit id="aCY2pN0" resname="Technicien de Fabrication">
+        <source>Technicien de Fabrication</source>
+        <target>Technicien de Fabrication</target>
+      </trans-unit>
+      <trans-unit id="oSS01SN" resname="Opérateur électro-érosion pour des outillages de découpe chez HMG.">
+        <source>Opérateur électro-érosion pour des outillages de découpe chez HMG.</source>
+        <target>Opérateur électro-érosion pour des outillages de découpe chez HMG.</target>
+      </trans-unit>
+      <trans-unit id="n5PjCbV" resname="Développeur Web et Web mobile">
+        <source>Développeur Web et Web mobile</source>
+        <target>Développeur Web et Web mobile</target>
+      </trans-unit>
+      <trans-unit id="NyHqiL1" resname="HTML/CSS, responsive desing, bootstrap, Ux et Ui desing, SEO, JavaScript, Jquery, Wordpress, SQL, php, Symfony et Opquast.">
+        <source>HTML/CSS, responsive desing, bootstrap, Ux et Ui desing, SEO, JavaScript, Jquery, Wordpress, SQL, php, Symfony et Opquast.</source>
+        <target>HTML/CSS, responsive desing, bootstrap, Ux et Ui desing, SEO, JavaScript, Jquery, Wordpress, SQL, php, Symfony et Opquast.</target>
+      </trans-unit>
+      <trans-unit id="jMMofmo" resname="Devenir un développeur JAVA">
+        <source>Devenir un développeur JAVA</source>
+        <target>Devenir un développeur JAVA</target>
+      </trans-unit>
+      <trans-unit id="5Lg268T" resname="Obtention du certificat de formation devenir un développeur Java, les fondements, les fondements de la programmation orienté objet, Java 9, Hibernate, Spring, la gesion du multithread, la programmation reseau avec Java.">
+        <source>Obtention du certificat de formation devenir un développeur Java, les fondements, les fondements de la programmation orienté objet, Java 9, Hibernate, Spring, la gesion du multithread, la programmation reseau avec Java.</source>
+        <target>Obtention du certificat de formation devenir un développeur Java, les fondements, les fondements de la programmation orienté objet, Java 9, Hibernate, Spring, la gesion du multithread, la programmation reseau avec Java.</target>
+      </trans-unit>
+      <trans-unit id="kY5xpf7" resname="Développeur d’application spécialité Java EE">
+        <source>Développeur d’application spécialité Java EE</source>
+        <target>Développeur d’application spécialité Java EE</target>
+      </trans-unit>
+      <trans-unit id="thHWPG4" resname="Obtention du certificat intégrateur web, organiser et packager une application avec Maven, développer des sites avec Java EE, bootstrap, HTML/CSS, modéliser une base de données relationnelle avec UML, gestion de projet agile, analyse logicielle avec UML, l'objet avec Java, les projets Java, l'algorithmes, Git et GitHub, concevoir un site web avec PHP et MySQL.">
+        <source>Obtention du certificat intégrateur web, organiser et packager une application avec Maven, développer des sites avec Java EE, bootstrap, HTML/CSS, modéliser une base de données relationnelle avec UML, gestion de projet agile, analyse logicielle avec UML, l'objet avec Java, les projets Java, l'algorithmes, Git et GitHub, concevoir un site web avec PHP et MySQL.</source>
+        <target>Obtention du certificat intégrateur web, organiser et packager une application avec Maven, développer des sites avec Java EE, bootstrap, HTML/CSS, modéliser une base de données relationnelle avec UML, gestion de projet agile, analyse logicielle avec UML, l'objet avec Java, les projets Java, l'algorithmes, Git et GitHub, concevoir un site web avec PHP et MySQL.</target>
+      </trans-unit>
+      <trans-unit id="U6q.3N9" resname="BTS E.R.O.">
+        <source>BTS E.R.O.</source>
+        <target>BTS E.R.O.</target>
+      </trans-unit>
+      <trans-unit id=".mD5q4_" resname="Apprentissage de conception et fabrication d'outillage de mise en forme des matériaux. Maîtrise CATIA V4 et connaissance CATIA V5.">
+        <source>Apprentissage de conception et fabrication d'outillage de mise en forme des matériaux. Maîtrise CATIA V4 et connaissance CATIA V5.</source>
+        <target>Apprentissage de conception et fabrication d'outillage de mise en forme des matériaux. Maîtrise CATIA V4 et connaissance CATIA V5.</target>
+      </trans-unit>
+      <trans-unit id="rksIJ7J" resname="Septembre">
+        <source>Septembre</source>
+        <target>Septembre</target>
+      </trans-unit>
+      <trans-unit id="8TE_7Vf" resname="BAC PRO OMFM option moules métalliques">
+        <source>BAC PRO OMFM option moules métalliques</source>
+        <target>BAC PRO OMFM option moules métalliques</target>
+      </trans-unit>
+      <trans-unit id="jgro.I2" resname="Apprentissage de fabrication de moule d'injection plastique, mention Assez bien.">
+        <source>Apprentissage de fabrication de moule d'injection plastique, mention Assez bien.</source>
+        <target>Apprentissage de fabrication de moule d'injection plastique, mention Assez bien.</target>
+      </trans-unit>
+      <trans-unit id="Bcvd5hO" resname="BEP Microtechnique">
+        <source>BEP Microtechnique</source>
+        <target>BEP Microtechnique</target>
+      </trans-unit>
+      <trans-unit id="NBwNrxQ" resname="Apprentissage de fabrication de pièces de petite taille.">
+        <source>Apprentissage de fabrication de pièces de petite taille.</source>
+        <target>Apprentissage de fabrication de pièces de petite taille.</target>
+      </trans-unit>
+      <trans-unit id="nGVQApN" resname="Langages de programmation &amp; outils">
+        <source>Langages de programmation &amp; outils</source>
+        <target>Langages de programmation &amp; outils</target>
+      </trans-unit>
+      <trans-unit id="Li1cVkm" resname="Workflow">
+        <source>Workflow</source>
+        <target>Workflow</target>
+      </trans-unit>
+      <trans-unit id="C6C7c9S" resname="Conception responsive">
+        <source>Conception responsive</source>
+        <target>Conception responsive</target>
+      </trans-unit>
+      <trans-unit id="cvC1_xV" resname="Analyse logicielle avec UML">
+        <source>Analyse logicielle avec UML</source>
+        <target>Analyse logicielle avec UML</target>
+      </trans-unit>
+      <trans-unit id="bgj8QPN" resname="IDE Visual Studio Code">
+        <source>IDE Visual Studio Code</source>
+        <target>IDE Visual Studio Code</target>
+      </trans-unit>
+      <trans-unit id="_OKTdVR" resname="Pédagogue">
+        <source>Pédagogue</source>
+        <target>Pédagogue</target>
+      </trans-unit>
+      <trans-unit id="7uAaR04" resname="Persévérant">
+        <source>Persévérant</source>
+        <target>Persévérant</target>
+      </trans-unit>
+      <trans-unit id="g1BD7I5" resname="Patient">
+        <source>Patient</source>
+        <target>Patient</target>
+      </trans-unit>
+      <trans-unit id="o.Fac.y" resname="Esprit d'équipe">
+        <source>Esprit d'équipe</source>
+        <target>Esprit d'équipe</target>
+      </trans-unit>
+      <trans-unit id="phPV1Jk" resname="Astronomie">
+        <source>Astronomie</source>
+        <target>Astronomie</target>
+      </trans-unit>
+      <trans-unit id="lb_YUC7" resname="Informatique">
+        <source>Informatique</source>
+        <target>Informatique</target>
+      </trans-unit>
+      <trans-unit id="UjPDSJq" resname="Gestion de réseau">
+        <source>Gestion de réseau</source>
+        <target>Gestion de réseau</target>
+      </trans-unit>
+      <trans-unit id="0hzH7oI" resname="Programmation de site internet">
+        <source>Programmation de site internet</source>
+        <target>Programmation de site internet</target>
+      </trans-unit>
+      <trans-unit id="IlNKQTf" resname="Configuration et déploiement de machines virtuelles">
+        <source>Configuration et déploiement de machines virtuelles</source>
+        <target>Configuration et déploiement de machines virtuelles</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

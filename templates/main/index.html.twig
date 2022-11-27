@@ -2,6 +2,8 @@
 
 {% block title %}{% endblock %}
 
+{% block stylesheets %}<link href="{{ asset('css/mainStyle.css') }}" rel="stylesheet" type="text/css" />{% endblock %}
+
 {% block body %}
 <!-- Page Content-->
 <div class="container-fluid p-0">
@@ -16,7 +18,7 @@
                 13 allée Thomas 59220 Denain. 06 16 41 20 95
                 <a href="mailto:yannick@yhonore.fr">yannick@yhonore.fr</a>
             </div>
-            <p class="lead mb-5">Suite à une reconversion, je suis actuellement à la recherche d'un emploi en tant que développeur web et web-mobile de préférence avec le framework Symfony.</p>
+            <p class="lead mb-5">{% trans %}Suite à une reconversion, je suis actuellement à la recherche d'un emploi en tant que développeur web et web-mobile de préférence avec le framework Symfony.{% endtrans %}</p>
             <div class="social-icons">
                 <a class="social-icon" href="https://www.linkedin.com/in/yannick-honore" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                 <a class="social-icon" href="https://github.com/yannickHonore" target="_blank"><i class="fab fa-github"></i></a>
@@ -27,46 +29,46 @@
     <!-- Experience-->
     <section class="resume-section" id="experience">
         <div class="resume-section-content">
-            <h2 class="mb-5">Expérience</h2>
+            <h2 class="mb-5">{% trans %}Expérience{% endtrans %}</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Développeur web</h3>
+                    <h3 class="mb-0">{% trans %}Développeur web{% endtrans %}</h3>
                     <div class="subheading mb-3">Communauté d'Agglomération de la Porte du Hainaut (CAPH) / Développeur Web (Raismes 59)</div>
-                    <p>Développement et mise en production d'une application web Symfony permettant de faire de la gestion de bien matériel et mobilier (inventaire, formulaire de demande de prêt «panier», etc...).</p>
+                    <p>{% trans %}Développement et mise en production d'une application web Symfony permettant de faire de la gestion de bien matériel et mobilier (inventaire, formulaire de demande de prêt «panier», etc...).{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Avril 2022 - Aout 2022</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Avril{% endtrans %} 2022 - {% trans %}Aout{% endtrans %} 2022</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Dessinateur étude 1</h3>
+                    <h3 class="mb-0">{% trans %}Dessinateur étude 1{% endtrans %}</h3>
                     <div class="subheading mb-3">Assystem France (Valenciennes 59)</div>
-                    <p>Concepteur en B.E. sur CATIA V4 et CATIA V5. Concevoir, modéliser et faire les plans de fabrication d'outillages en aéronautique, pièces automobiles ou ferroviaires.</p>
+                    <p>{% trans %}Concepteur en B.E. sur CATIA V4 et CATIA V5. Concevoir, modéliser et faire les plans de fabrication d'outillages en aéronautique, pièces automobiles ou ferroviaires.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Juillet 206 - Février 2019</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Juillet{% endtrans %} 206 - {% trans %}Février{% endtrans %} 2019</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Technitien B.E.</h3>
+                    <h3 class="mb-0">{% trans %}Technitien B.E.{% endtrans %}</h3>
                     <div class="subheading mb-3">Sermoule (Rambouillet 78)</div>
-                    <p>Réaliser des plans de fabrication d'outillages sur CATIA V4 et concevoir les programmes d'usinages à commande numérique.</p>
+                    <p>{% trans %}Réaliser des plans de fabrication d'outillages sur CATIA V4 et concevoir les programmes d'usinages à commande numérique.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Mars 2005 - Juin 2006</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Mars{% endtrans %} 2005 - {% trans %}Juin{% endtrans %} 2006</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Professeur d’atelier</h3>
+                    <h3 class="mb-0">{% trans %}Professeur d’atelier{% endtrans %}</h3>
                     <div class="subheading mb-3">Lycée Louis GIRARD (Malakoff 92)</div>
-                    <p>Professeur d'atelier pour des élèves de B.E.P. Modelage et de classes 3° technologique.</p>
+                    <p>{% trans %}Professeur d'atelier pour des élèves de B.E.P. Modelage et de classes 3° technologique.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Novembre 2003 - Juin 2004</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Novembre{% endtrans %} 2003 - {% trans %}Juin{% endtrans %} 2004</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Technicien de Fabrication</h3>
+                    <h3 class="mb-0">{% trans %}Technicien de Fabrication{% endtrans %}</h3>
                     <div class="subheading mb-3">Adia (Louviers 27)</div>
-                    <p>Opérateur électro-érosion pour des outillages de découpe chez HMG.</p>
+                    <p>{% trans %}Opérateur électro-érosion pour des outillages de découpe chez HMG.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Juin 2003 - Novembre 2003</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Juin{% endtrans %} 2003 - {% trans %}Novembre{% endtrans %} 2003</span></div>
             </div>
         </div>
     </section>
@@ -74,54 +76,54 @@
     <!-- Education-->
     <section class="resume-section" id="education">
         <div class="resume-section-content">
-            <h2 class="mb-5">Formation</h2>
+            <h2 class="mb-5">{% trans %}Formation{% endtrans %}</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">WebForce3</h3>
-                    <div class="subheading mb-3">Développeur Web et Web mobile</div>
-                    <p>HTML/CSS, responsive desing, bootstrap, Ux et Ui desing, SEO, JavaScript, Jquery, Wordpress, SQL, php, Symfony et Opquast.</p>
+                    <div class="subheading mb-3">{% trans %}Développeur Web et Web mobile{% endtrans %}</div>
+                    <p>{% trans %}HTML/CSS, responsive desing, bootstrap, Ux et Ui desing, SEO, JavaScript, Jquery, Wordpress, SQL, php, Symfony et Opquast.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Novembre 2021 - Mars 2022</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Novembre{% endtrans %} 2021 - {% trans %}Mars{% endtrans %} 2022</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">Formadis</h3>
-                    <div class="subheading mb-3">Devenir un développeur JAVA</div>
-                    <p>Obtention du certificat de formation devenir un développeur Java, les fondements, les fondements de la programmation orienté objet, Java 9, Hibernate, Spring, la gesion du multithread, la programmation reseau avec Java.</p>
+                    <div class="subheading mb-3">{% trans %}Devenir un développeur JAVA{% endtrans %}</div>
+                    <p>{% trans %}Obtention du certificat de formation devenir un développeur Java, les fondements, les fondements de la programmation orienté objet, Java 9, Hibernate, Spring, la gesion du multithread, la programmation reseau avec Java.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Novembre 2020 - Mars 2021</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Novembre{% endtrans %} 2020 - {% trans %}Mars{% endtrans %} 2021</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">OpenClassrooms</h3>
-                    <div class="subheading mb-3">Développeur d’application spécialité Java EE</div>
-                    <p>Obtention du certificat intégrateur web, organiser et packager une application avec Maven, développer des sites avec Java EE, bootstrap, HTML/CSS, modéliser une base de données relationnelle avec UML, gestion de projet agile, analyse logicielle avec UML, l'objet avec Java, les projets Java, l'algorithmes, Git et GitHub, concevoir un site web avec PHP et MySQL.</p>
+                    <div class="subheading mb-3">{% trans %}Développeur d’application spécialité Java EE{% endtrans %}</div>
+                    <p>{% trans %}Obtention du certificat intégrateur web, organiser et packager une application avec Maven, développer des sites avec Java EE, bootstrap, HTML/CSS, modéliser une base de données relationnelle avec UML, gestion de projet agile, analyse logicielle avec UML, l'objet avec Java, les projets Java, l'algorithmes, Git et GitHub, concevoir un site web avec PHP et MySQL.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Février 2019 - Mars 2020</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Février{% endtrans %} 2019 - {% trans %}Mars{% endtrans %} 2020</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">Lycée Val de Garonne</h3>
-                    <div class="subheading mb-3">BTS E.R.O.</div>
-                    <p>Apprentissage de conception et fabrication d'outillage de mise en forme des matériaux. Maîtrise CATIA V4 et connaissance CATIA V5.</p>
+                    <div class="subheading mb-3">{% trans %}BTS E.R.O.{% endtrans %}</div>
+                    <p>{% trans %}Apprentissage de conception et fabrication d'outillage de mise en forme des matériaux. Maîtrise CATIA V4 et connaissance CATIA V5.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Septembre 2000 - Juin 2002</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Septembre{% endtrans %} 2000 - {% trans %}Juin{% endtrans %} 2002</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">Lycée Eugène RONCERAY</h3>
-                    <div class="subheading mb-3">BAC PRO OMFM option moules métalliques</div>
-                    <p>Apprentissage de fabrication de moule d'injection plastique, mention Assez bien.</p>
+                    <div class="subheading mb-3">{% trans %}BAC PRO OMFM option moules métalliques{% endtrans %}</div>
+                    <p>{% trans %}Apprentissage de fabrication de moule d'injection plastique, mention Assez bien.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Septembre 1998 - Juin 2000</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Septembre{% endtrans %} 1998 - {% trans %}Juin{% endtrans %} 2000</span></div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">Lycée Honoré PONS</h3>
-                    <div class="subheading mb-3">BEP Microtechnique</div>
-                    <p>Apprentissage de fabrication de pièces de petite taille.</p>
+                    <div class="subheading mb-3">{% trans %}BEP Microtechnique{% endtrans %}</div>
+                    <p>{% trans %}Apprentissage de fabrication de pièces de petite taille.{% endtrans %}</p>
                 </div>
-                <div class="flex-shrink-0"><span class="text-primary">Septembre 1998 - Juin 2000</span></div>
+                <div class="flex-shrink-0"><span class="text-primary">{% trans %}Septembre{% endtrans %} 1998 - {% trans %}Juin{% endtrans %} 2000</span></div>
             </div>
         </div>
     </section>
@@ -129,8 +131,8 @@
     <!-- Skills-->
     <section class="resume-section" id="skills">
         <div class="resume-section-content">
-            <h2 class="mb-5">Compétences</h2>
-            <div class="subheading mb-3">Langages de programmation & outils</div>
+            <h2 class="mb-5">{% trans %}Compétences{% endtrans %}</h2>
+            <div class="subheading mb-3">{% trans %}Langages de programmation & outils{% endtrans %}</div>
             <ul class="list-inline dev-icons">
                 <li class="list-inline-item"><i class="fab fa-html5" title="HTML 5"></i></li>
                 <li class="list-inline-item"><i class="fab fa-css3-alt" title="CSS 3"></i></li>
@@ -141,35 +143,35 @@
                 <li class="list-inline-item"><i class="fab fa-wordpress" title="Wordpress"></i></li>
                 <li class="list-inline-item"><i class="fab fa-java" title="Java-ee"></i></li>
             </ul>
-            <div class="subheading mb-3">Workflow</div>
+            <div class="subheading mb-3">{% trans %}Workflow{% endtrans %}</div>
             <ul class="fa-ul mb-0">
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Conception responsive
+                    {% trans %}Conception responsive{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Analyse logicielle avec UML
+                    {% trans %}Analyse logicielle avec UML{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    IDE Visual Studio Code
+                    {% trans %}IDE Visual Studio Code{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Pédagogue
+                    {% trans %}Pédagogue{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Persévérant
+                    {% trans %}Persévérant{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Patient
+                    {% trans %}Patient{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Esprit d'équipe
+                    {% trans %}Esprit d'équipe{% endtrans %}
                 </li>
             </ul>
         </div>
@@ -178,27 +180,27 @@
     <!-- Interests-->
     <section class="resume-section" id="interests">
         <div class="resume-section-content">
-            <h2 class="mb-5">Interests</h2>
+            <h2 class="mb-5">{% trans %}Intérêts{% endtrans %}</h2>
             <ul class="fa-ul mb-0">
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Astronomie
+                    {% trans %}Astronomie{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Informatique
+                    {% trans %}Informatique{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Gestion de réseau
+                    {% trans %}Gestion de réseau{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Programmation de site internet
+                    {% trans %}Programmation de site internet{% endtrans %}
                 </li>
                 <li>
                     <span class="fa-li"><i class="fas fa-check"></i></span>
-                    Configuration et déploiement de machines virtuelles
+                    {% trans %}Configuration et déploiement de machines virtuelles{% endtrans %}
                 </li>
             </ul>
         </div>

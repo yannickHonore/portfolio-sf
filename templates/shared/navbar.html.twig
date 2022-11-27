@@ -1,17 +1,20 @@
 <!-- Navigation-->
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary" id="sideNav">
   <a class="navbar-brand js-scroll-trigger" href="{{path('app_main')}}#page-top">
     <span class="d-block d-lg-none">Yannick HONORE</span>
-    <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ asset('assets/img/profile.jpg') }}" alt="Photo de profil" /></span>
+    <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ asset('assets/img/profile.jpg') }}" alt="{% trans %}Photo de profil{% endtrans %}" /></span>
   </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
   <div class="collapse navbar-collapse" id="navbarResponsive">
     <ul class="navbar-nav">
-      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#about">A propos</a></li>
-      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#experience">Expérience</a></li>
-      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#education">Formation</a></li>
-      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#skills">Compétences</a></li>
-      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#interests">Intérêts</a></li>
+      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#about">{% trans %}A propos{% endtrans %}</a></li>
+      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#experience">{% trans %}Expérience{% endtrans %}</a></li>
+      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#education">{% trans %}Formation{% endtrans %}</a></li>
+      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#skills">{% trans %}Compétences{% endtrans %}</a></li>
+      <li class="nav-item"><a class="nav-link js-scroll-trigger" href="{{path('app_main')}}#interests">{% trans %}Intérêts{% endtrans %}</a></li>
+      {% for locale in locales %}
+      <li class="nav-item"><a class="nav-link js-scroll-trigger {% if app.request.locale == locale %}disabled{% endif %}" href="{{ path('change_locale', {'locale': locale}) }}"><img class="nav-img" src="{{ asset('assets/img/'~locale~'.svg')}}" alt="{{ locale }}"></a></li>
+      {% endfor %}
     </ul>
   </div>
 </nav>
