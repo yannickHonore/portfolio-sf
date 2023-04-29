@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="nGVQApN" resname="Langages de programmation &amp; outils">
         <source>Langages de programmation &amp; outils</source>
-        <target>Programming Languages &amp; Tools</target>
+        <target><![CDATA[Programming Languages & Tools]]></target>
       </trans-unit>
       <trans-unit id="Li1cVkm" resname="Workflow">
         <source>Workflow</source>
@@ -208,6 +208,18 @@
       <trans-unit id="IlNKQTf" resname="Configuration et déploiement de machines virtuelles">
         <source>Configuration et déploiement de machines virtuelles</source>
         <target>Configuration and deployment of virtual machines</target>
+      </trans-unit>
+      <trans-unit id="t0PMtW2" resname="Manpower pour CMD (Cambray 59)">
+        <source>Manpower pour CMD (Cambray 59)</source>
+        <target>Manpower for CMD (Cambray 59)</target>
+      </trans-unit>
+      <trans-unit id="WaA.s5v" resname="Créations et modifications d'applications web pour usage interne à l'entreprise.">
+        <source>Créations et modifications d'applications web pour usage interne à l'entreprise.</source>
+        <target>Creation and modification of web applications for internal use in the company.</target>
+      </trans-unit>
+      <trans-unit id="fcsIJ9n" resname="Depuis décembre">
+        <source>Depuis décembre</source>
+        <target>Since December</target>
       </trans-unit>
     </body>
   </file>
