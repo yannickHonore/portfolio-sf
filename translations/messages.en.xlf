@@ -221,6 +221,10 @@
         <source>Depuis décembre</source>
         <target>Since December</target>
       </trans-unit>
+      <trans-unit id="ThI0lZz" resname="Décembre">
+        <source>Décembre</source>
+        <target>December</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
