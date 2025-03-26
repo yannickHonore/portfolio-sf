@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 273.24 397.58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_37);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#Dégradé_sans_nom_44);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#Dégradé_sans_nom_62);
+      }
+
+      .cls-4 {
+        fill: url(#Dégradé_sans_nom_11);
+      }
+
+      .cls-8 {
+        fill: #161720;
+      }
+
+      .cls-5 {
+        fill: url(#Dégradé_sans_nom_70);
+      }
+
+      .cls-6 {
+        fill: url(#Dégradé_sans_nom_20);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_20" data-name="Dégradé sans nom 20" x1="22.9" y1="198.79" x2="206.48" y2="198.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff00f5"/>
+      <stop offset="1" stop-color="#a500a5"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_11" data-name="Dégradé sans nom 11" x1="45.99" y1="198.79" x2="206.48" y2="198.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a500a5"/>
+      <stop offset="1" stop-color="#ff00f5"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_62" data-name="Dégradé sans nom 62" x1=".52" y1="258.74" x2="158.55" y2="258.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="1" stop-color="#008399"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_70" data-name="Dégradé sans nom 70" x1="11.12" y1="258.74" x2="158.55" y2="258.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008399"/>
+      <stop offset="1" stop-color="#00d1ff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_37" data-name="Dégradé sans nom 37" x1="0" y1="324.63" x2="157.9" y2="324.63" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008399"/>
+      <stop offset="1" stop-color="#00d1ff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_44" data-name="Dégradé sans nom 44" x1=".51" y1="324.63" x2="157.9" y2="324.63" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="1" stop-color="#008399"/>
+    </linearGradient>
+  </defs>
+  <g id="_1" data-name="1">
+    <path class="cls-6" d="M53.45,0c-117.16,202.93,142.26,213.06,116.46,397.58C302.67,193.02,29.46,149.34,53.45,0Z"/>
+    <path class="cls-4" d="M169.91,397.58C302.67,193.02,29.46,149.34,53.45,0,.89,204.73,245.88,190.36,169.91,397.58Z"/>
+    <path class="cls-3" d="M11.44,120.49c-56.42,207.53,122.98,191.07,146.46,276.51C169.39,267.48,24.58,255.31,11.44,120.49Z"/>
+    <path class="cls-5" d="M157.9,397C169.39,267.48,24.58,255.31,11.44,120.49c-7.96,178.8,135.69,160.67,146.46,276.51Z"/>
+    <path class="cls-1" d="M.51,252.25c-10.26,150.74,138.48,113.16,157.39,144.75C152.69,326.87,14.49,344.39.51,252.25Z"/>
+    <path class="cls-2" d="M157.9,397C152.69,326.87,14.49,344.39.51,252.25c5.4,116.44,134.77,87.77,157.39,144.75Z"/>
+  </g>
+  <g>
+    <rect class="cls-7" x="51.04" y="268.28" width="219.11" height="53.66" rx="5.84" ry="5.84"/>
+    <path class="cls-8" d="M258.11,325.04H63.08c-8.35,0-15.14-6.79-15.14-15.14v-29.58c0-8.35,6.79-15.14,15.14-15.14h195.03c8.35,0,15.14,6.79,15.14,15.14v29.58c0,8.35-6.79,15.14-15.14,15.14ZM63.08,271.38c-4.93,0-8.95,4.01-8.95,8.95v29.58c0,4.93,4.01,8.95,8.95,8.95h195.03c4.93,0,8.95-4.01,8.95-8.95v-29.58c0-4.93-4.01-8.95-8.95-8.95H63.08Z"/>
+  </g>
+  <path d="M93.79,296.14h-27.26c-.57,0-1.03-.46-1.03-1.03s.46-1.03,1.03-1.03h27.26c.57,0,1.03.46,1.03,1.03s-.46,1.03-1.03,1.03Z" stroke="black" stroke-width="3"/>
+  <path d="M129.8,296.14h-27.26c-.57,0-1.03-.46-1.03-1.03s.46-1.03,1.03-1.03h27.26c.57,0,1.03.46,1.03,1.03s-.46,1.03-1.03,1.03Z" stroke="black" stroke-width="3"/>
+  <path d="M165.81,296.14h-27.26c-.57,0-1.03-.46-1.03-1.03s.46-1.03,1.03-1.03h27.26c.57,0,1.03.46,1.03,1.03s-.46,1.03-1.03,1.03Z" stroke="black" stroke-width="3"/>
+  <circle cx="238.85" cy="295.11" r="8.5"/>
+</svg>

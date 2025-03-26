@@ -225,6 +225,10 @@
         <source>Décembre</source>
         <target>December</target>
       </trans-unit>
+      <trans-unit id="L2cchIC" resname="Réalisations">
+        <source>Réalisations</source>
+        <target>Production</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

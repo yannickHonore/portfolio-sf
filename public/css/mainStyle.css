@@ -1,3 +1,8 @@
 .nav-img {
   width: 50%;
 }
+
+#production img {
+  width: 100px;
+  height: auto;
+}
